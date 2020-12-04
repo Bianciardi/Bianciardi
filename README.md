@@ -16,10 +16,10 @@ Currently I'm pursuing a bachelor's degree in <i>Digital Humanities</i>.
 </p>
 <p align="left">
   <a href="https://www.instagram.com/lorenzobianciardi.it/" alt="Instagram">
-    <img src="https://cdn.pixabay.com/photo/2017/06/23/02/32/instagram-2433265_960_720.png" width="25px">
+    <img src="https://cdn.pixabay.com/photo/2017/06/23/02/32/instagram-2433265_960_720.png" width="45px">
   </a>
   <a href="https://www.linkedin.com/in/bianciardi" alt="Linkedin">
-    <img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" width="25px">
+    <img src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_960_720.png" width="45px">
   </a>
 </p>  
 
