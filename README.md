@@ -5,7 +5,7 @@ Hi there 👋
 I'm Lorenzo and this is my Github's profile.
 </p>
 <p align="left"> 
-🎓 University of Pisa 
+<h6>🎓 University of Pisa</h6>
 Currently I'm pursuing a bachelor's degree in <i>Digital Humanities</i>.
 </p>
 <p align="left"> 
