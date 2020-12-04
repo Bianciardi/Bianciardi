@@ -3,9 +3,9 @@ I'm Lorenzo and this is my Github's profile.
 
 
 🎓 University of Pisa 
-Currently I'm pursuing a bachelor's degree in ##Digital Humanities
+Currently I'm pursuing a bachelor's degree in ###Digital Humanities
 
-⚡ Skills: C#, Python, ##PHP.
+⚡ Skills: C#, Python, ###PHP.
 <!--
 **Bianciardi/Bianciardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
