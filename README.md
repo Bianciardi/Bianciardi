@@ -23,7 +23,7 @@ Currently I'm pursuing a bachelor's degree in <i>Digital Humanities</i>.
   </a>
 </p>  
 
-<! -- 🆔 https://orcid.org/0000-0003-3600-7258 -->
+<!-- 🆔 https://orcid.org/0000-0003-3600-7258 -->
 <!--
 **Bianciardi/Bianciardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
